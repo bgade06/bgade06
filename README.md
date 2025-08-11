@@ -13,9 +13,9 @@ I am eager to leverage my technical skills, hands-on project experience, and pas
 |-------|--------------------|
 | SIEM Implementation and Log Analysis | [ThreatWatch](https://github.com/bgade06/threatwatch) |
 | Network Traffic Monitoring and Attack Detection | [ThreatWatch](https://github.com/bgade06/threatwatch) |
-| Security Automation with Bash Scripting | [Project 1: Linux Server Hardening](https://github.com/bgade06/project1-hardening) |
+| Security Automation with Bash Scripting | [Linux Server Hardening](https://github.com/bgade06/linux-hardening) |
 | Incident Response Planning and Execution | [ThreatWatch](https://github.com/bgade06/threatwatch) |
-| Scripting and Automation for Threat Mitigation | [Project 1: Linux Server Hardening](https://github.com/bgade06/project1-hardening) |
+| Scripting and Automation for Threat Mitigation | [Linux Server Hardening](https://github.com/bgade06/linux-hardening) |
 | Full-Stack Web Development | [AgentFinder](https://github.com/bgade06/agentfinder) |
 
 ## Tools
@@ -63,7 +63,7 @@ I am eager to leverage my technical skills, hands-on project experience, and pas
 ### [ThreatWatch](https://github.com/bgade06/threatwatch)  
 Built a Splunk-based SIEM to detect brute-force, login abuse, and privilege escalation across 15,000+ logs. Reduced threat detection time to under 10 minutes.
 
-### [Project 1: Linux Server Hardening](https://github.com/bgade06/project1-hardening)  
+### [Linux Server Hardening](https://github.com/bgade06/linux-hardening)  
 Secured Linux servers by disabling root logins, patching vulnerabilities, auditing users, and automating hardening scripts via cron.
 
 ### [AgentFinder](https://github.com/bgade06/agentfinder)  
