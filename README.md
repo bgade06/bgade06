@@ -1,4 +1,4 @@
-# Hello, I'm Bharadwaj!
+# Hi, I'm Bharadwaj!
 <a href="https://linkedin.com/in/bharadwaj-gade/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a computer science student at Michigan State University with a strong interest in cybersecurity and full-stack development. My experiences include developing scalable AI platforms, automating server hardening, and deploying real-time threat detection tools.
