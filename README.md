@@ -66,5 +66,5 @@ Built a Splunk-based SIEM to detect brute-force, login abuse, and privilege esca
 ### [Linux Server Hardening](https://github.com/bgade06/linux-hardening)  
 Secured Linux servers by disabling root logins, patching vulnerabilities, auditing users, and automating hardening scripts via cron.
 
-### [AgentFinder](https://github.com/bgade06/agentfinder)  
-A full-stack React platform for discovering and comparing 100+ AI tools across categories. Integrated Stripe payments, schema-based APIs, and dynamic search.
+### [Digeon AI](https://github.com/bgade06/digeon)  
+Built a curated AI tools marketplace and developer platform enabling users to deploy verified AI agents and developers to monetize their own.
