@@ -16,7 +16,7 @@ I am eager to leverage my technical skills, hands-on project experience, and pas
 | Security Automation with Bash Scripting | [Linux Server Hardening](https://github.com/bgade06/linux-hardening) |
 | Incident Response Planning and Execution | [ThreatWatch](https://github.com/bgade06/threatwatch) |
 | Scripting and Automation for Threat Mitigation | [Linux Server Hardening](https://github.com/bgade06/linux-hardening) |
-| Full-Stack Web Development | [AgentFinder](https://github.com/bgade06/digeon) |
+| Full-Stack Web Development | [Digeon AI](https://github.com/bgade06/digeon) |
 
 ## Tools
 
